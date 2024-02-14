@@ -11,4 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Using AI and machine learning to analyze patterns in biodiversity genomics in Fungi.
+Using AI and machine learning to analyze patterns in fungal biodiversity.
